@@ -1,11 +1,14 @@
 """
 VSE Tools - Blender VSE Addon
-Tools for working with image strips in the Video Sequence Editor:
+
+source : https://github.com/PGTBoos/Blender-GIMP-GPS-for-VSE
+
+Slideshow tools for working with (vacation) image strips in the Video Sequence Editor:
 - Open in GIMP for external editing
-- Open source folder in file browser  
+- Open source folder of image in file browser  
 - Show photo location in Google Maps (if GPS data exists)
 
-No external dependencies - uses pure Python to read EXIF GPS data.
+No external dependencies - uses pure Python to read EXIF GPS data !
 
 Installation:
 1. Edit → Preferences → Add-ons
